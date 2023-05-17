@@ -35,3 +35,4 @@ jobs:
           sleep 10
           echo Add other actions to build,
           echo test, and deploy your project.
+          status 0
